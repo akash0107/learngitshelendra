@@ -1,0 +1,4 @@
+This file contains the instructions for the project
+=> Clone it
+=> Script it
+=> Push it to the repo
